@@ -8,6 +8,11 @@ public class ContactUs {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		
+		
+		System.out.println("this is add by clonegit");
+		
+		
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\acer\\Downloads\\Selenium Setup\\Chrome\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		
